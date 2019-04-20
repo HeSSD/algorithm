@@ -1,0 +1,2 @@
+# algorithm
+Classic basic algorithm
