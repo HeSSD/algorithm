@@ -19,7 +19,7 @@ public class bubbleSort {
 		for(int j=0;j<b;j++){
 			System.out.print(a[j]+"\t");
 		}
-		//冒泡排序主体部分
+		//the main part of Bubble Sort
 		for(int m=0;m<b-1;m++){
 			for(int n=0;n<b-1-m;n++){
 				if(a[n]>a[n+1]){
